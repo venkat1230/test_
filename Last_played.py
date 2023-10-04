@@ -1,4 +1,4 @@
-lastplayed = 6 #get the item from post request of played song
+lastplayed = 6 #get the song id from post request of played_song
 Played_list = [1,2,3]
 if lastplayed in Played_list:
     exit()
