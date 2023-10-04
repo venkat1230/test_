@@ -1,4 +1,4 @@
-lastplayed = 6 #got the item from get request
+lastplayed = 6 #get the item from post request of played song
 Played_list = [1,2,3]
 if lastplayed in Played_list:
     exit()
